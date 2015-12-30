@@ -6,4 +6,4 @@
 #include <algorithm> // std::remove_if
 #include <stdexcept>
 #include <cmath>
-#include "cv.hpp"
+#include "../include/cv.hpp"
